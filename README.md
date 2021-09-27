@@ -2,7 +2,7 @@
 ## General info
 The goal is to create an android app that handles online orders with multi‑functionalities that include location‑detection,image storage/retrieval, various authen‑
 tication methods, push notification and offline cache..
-## Functionalites
+## Features
 This is menu function where the customers can place the orders 
 <p align="center">
 <img height="350" src="IMG/Menu.JPG"> 
