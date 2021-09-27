@@ -21,3 +21,5 @@ This is the extension used as a upload function for the coupon which applies ded
 Java SE 15
 
 Android Studio 4.2.2
+
+Google Firebase
