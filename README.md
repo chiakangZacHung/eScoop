@@ -15,6 +15,7 @@ This is the extension used as a upload function for the coupon which applies ded
 <p align="center">
   <img height="350" src="IMG/upload.JPG"> 
 </p>
+
 ## Technologies
 Java SE 15
 Android Studio 4.2.2
