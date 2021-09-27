@@ -3,12 +3,12 @@
 The goal is to create an android app that handles online orders.
 
 <p align="center">
- <img height="200" src="IMG/img6.png"> <img height="350" src="IMG/Menu.png"> 
+ <img height="200" src="IMG/img6.png"> <img height="350" src="IMG/Menu.jpg"> 
 </p>
 <p align="center">
- <img height="200" src="IMG/img6.png"> <img height="350" src="IMG/Map.png"> 
+ <img height="200" src="IMG/img6.png"> <img height="350" src="IMG/map.jpg"> 
 </p>
 
 <p align="center">
- <img height="200" src="IMG/img6.png"> <img height="350" src="IMG/upload.png"> 
+ <img height="200" src="IMG/img6.png"> <img height="350" src="IMG/upload.jpg"> 
 </p>
