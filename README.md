@@ -5,7 +5,8 @@ The goal is to create an android app that handles online orders.
 This is menu function where the customers can place the orders 
 <p align="center">
  <img height="200" src="IMG/img6.png"> <img height="350" src="IMG/Menu.JPG"> 
-This is the google map extension to get the current location used for delivery address
+
+ This is the google map extension to get the current location used for delivery address
 </p>
 <p align="center">
  <img height="200" src="IMG/img6.png"> <img height="350" src="IMG/map.JPG"> 
